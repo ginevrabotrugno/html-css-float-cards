@@ -8,3 +8,23 @@
 body {
     font-family: "Outfit", sans-serif;
 }
+
+/* regole header */
+#layover{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    color: #e43a7d;
+    font-weight: 900;
+    margin-top: 20px;
+}
+
+header p {
+    margin-top: 30px;
+}

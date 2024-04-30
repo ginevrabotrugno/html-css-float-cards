@@ -30,11 +30,11 @@ header p {
 }
 
 /* regole main */
-#container {
+main {
     margin-top: 30px;
 }
 
-#container::after {
+main::after {
     clear: both;
 }
 

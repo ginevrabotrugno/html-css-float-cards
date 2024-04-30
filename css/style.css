@@ -41,7 +41,7 @@ main::after {
 }
 
 .card {
-    width: calc((100% / 3) - 44px);
+    width: calc((100% / 3) - 40px);
     background-color: #0f0e17;
     margin: 20px;
     box-shadow: 2px 2px 2px #888888;
@@ -63,6 +63,10 @@ main::after {
 
 .info {
     padding: 20px;
+}
+
+.info span {
+    display: block;
 }
 
 .name {

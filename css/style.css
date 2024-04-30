@@ -35,6 +35,8 @@ main {
 }
 
 main::after {
+    content: "";
+    display: table;
     clear: both;
 }
 
@@ -48,6 +50,8 @@ main::after {
 }
 
 .card::after {
+    content: "";
+    display: table;
     clear: both;
 }
 

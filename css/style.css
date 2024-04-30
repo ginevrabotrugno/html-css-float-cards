@@ -47,6 +47,10 @@ main::after {
     color: white;
 }
 
+.card::after {
+    clear: both;
+}
+
 .picture img {
     width: 100px;
     float: left;
